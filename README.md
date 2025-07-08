@@ -10,3 +10,17 @@
 Elhouceine777/Elhouceine777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Personal Finance Manager
+
+This repository now includes a simple personal finance manager written in Python using Tkinter and SQLite.
+
+### Requirements
+- Python 3
+- `matplotlib` library (install with `pip install matplotlib` if not already installed)
+
+### How to run
+```bash
+python3 main.py
+```
+The application stores its data in `finance.db` in the project directory.
